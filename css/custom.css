@@ -1,0 +1,37 @@
+:root {
+  --r-heading-font: Geomanist Regular, Helvetica, sans-serif;
+  --r-heading-font-weight: 300;
+  --r-heading-text-transform: normal;
+}
+
+.reveal .slides section {
+  text-align: left;
+  width: auto;
+  margin: 50px;
+}
+
+.reveal .slides section.center {
+  text-align: center;
+}
+
+.font-white h1,
+.font-white h2,
+.font-white h3 {
+  color: white;
+  text-shadow: 0px 0px 20px rgb(0 0 0 / 75%);
+}
+
+.box-list div {
+  background-color: rgb(84, 130, 53);
+  padding: 20px;
+  box-shadow: 0px 1px 3px rgb(43 43 43 / 67%);
+}
+
+
+.reveal h1 {
+    color: rgb(84, 130, 53);
+}
+
+.green {
+  color: rgb(84, 130, 53);
+}

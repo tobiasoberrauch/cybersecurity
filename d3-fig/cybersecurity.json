@@ -1,0 +1,325 @@
+{
+    "name": "Cybersecurity",
+    "_children": [
+        {
+            "name": "Indentify",
+            "_children": [
+                {
+                    "name": "Asset Management",
+                    "_children": [
+                        {
+                            "name": "Software & Security Lifecycle Management"
+                        },
+                        {
+                            "name": "IT Service Management"
+                        }
+                    ]
+                },
+                {
+                    "name": "Business Environment",
+                    "_children": [
+                        {
+                            "name": "Business Impact Analysis"
+                        }
+                    ]
+                },
+                {
+                    "name": "Governance & Risk Management",
+                    "_children": [
+                        {
+                            "name": "Security Certification"
+                        },
+                        {
+                            "name": "Governance, Risk & Compliance (GRC)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Risk Assessment",
+                    "_children": [
+                        {
+                            "name": "Risk Management solutions & services"
+                        }
+                    ]
+                },
+                {
+                    "name": "Risk Management Strategy",
+                    "_children": [
+                        {
+                            "name": "Risk management strategy development & consulting"
+                        }
+                    ]
+                },
+                {
+                    "name": "Supply Chain Risk Management",
+                    "_children": [
+                        {
+                            "name": "Supply chain risk monitoring solutions & services"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Protect",
+            "_children": [
+                {
+                    "name": "Identity Management & Access Control",
+                    "_children": [
+                        {
+                            "name": "Access Management"
+                        },
+                        {
+                            "name": "Authentication"
+                        },
+                        {
+                            "name": "Authorisation"
+                        },
+                        {
+                            "name": "Identity Management"
+                        }
+                    ]
+                },
+                {
+                    "name": "Awareness and Training",
+                    "_children": [
+                        {
+                            "name": "Awareness Trainings"
+                        },
+                        {
+                            "name": "Cyber Ranges"
+                        }
+                    ]
+                },
+                {
+                    "name": "Data Security",
+                    "_children": [
+                        {
+                            "name": "PKI / Digital Certificates"
+                        },
+                        {
+                            "name": "Data Leakage Prevention"
+                        },
+                        {
+                            "name": "Encryption"
+                        },
+                        {
+                            "name": "Cloud Access Security Brokers"
+                        },
+                        {
+                            "name": "Hardware Security Modules (HSM)"
+                        },
+                        {
+                            "name": "Digital Signature"
+                        }
+                    ]
+                },
+                {
+                    "name": "Information Protection Processes and Procedures",
+                    "_children": [
+                        {
+                            "name": "Static Application Security Testing (SAST)"
+                        },
+                        {
+                            "name": "Application Security"
+                        }
+                    ]
+                },
+                {
+                    "name": "Maintenance",
+                    "_children": [
+                        {
+                            "name": "Patch Management"
+                        },
+                        {
+                            "name": "Vulnerability Management"
+                        },
+                        {
+                            "name": "Penetration Testing / Red Teaming"
+                        }
+                    ]
+                },
+                {
+                    "name": "Protective Technology",
+                    "_children": [
+                        {
+                            "name": "Wireless Security"
+                        },
+                        {
+                            "name": "Remote Access / VPN"
+                        },
+                        {
+                            "name": "IoT Security"
+                        },
+                        {
+                            "name": "PC/Mobile/End Point Security"
+                        },
+                        {
+                            "name": "Mobile Security /Device management"
+                        },
+                        {
+                            "name": "Sandboxing"
+                        },
+                        {
+                            "name": "Content Filtering & Monitoring"
+                        },
+                        {
+                            "name": "Firewalls / NextGen Firewalls"
+                        },
+                        {
+                            "name": "Unified Threat Management (UTM)"
+                        },
+                        {
+                            "name": "Anti Spam"
+                        },
+                        {
+                            "name": "Anti Virus/Worm/Malware"
+                        },
+                        {
+                            "name": "Backup / Storage Security"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Detect",
+            "_children": [
+                {
+                    "name": "Anomalies and Events",
+                    "_children": [
+                        {
+                            "name": "Fraud Management"
+                        },
+                        {
+                            "name": "Intrusion Detection"
+                        }
+                    ]
+                },
+                {
+                    "name": "Security Continous Monitoring",
+                    "_children": [
+                        {
+                            "name": "SIEM / Event Correlation Solutions"
+                        },
+                        {
+                            "name": "Cyber Threat Intelligence"
+                        },
+                        {
+                            "name": "Security Operations Center (SOC)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Detection Processes",
+                    "_children": [
+                        {
+                            "name": "Underground/Darkweb investigation"
+                        },
+                        {
+                            "name": "Honeypots / Cybertraps"
+                        },
+                        {
+                            "name": "Social Media & Brand Monitoring"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Respond",
+            "_children": [
+                {
+                    "name": "Response Planning",
+                    "_children": [
+                        {
+                            "name": "Incident Management"
+                        },
+                        {
+                            "name": "Crisis Management"
+                        }
+                    ]
+                },
+                {
+                    "name": "Communications",
+                    "_children": [
+                        {
+                            "name": "Crisis Communication"
+                        }
+                    ]
+                },
+                {
+                    "name": "Analysis",
+                    "_children": [
+                        {
+                            "name": "Fraud Investigation"
+                        },
+                        {
+                            "name": "Forensics"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mitigation",
+                    "_children": [
+                        {
+                            "name": "Cyber Security Insurance"
+                        },
+                        {
+                            "name": "DDoS protection"
+                        },
+                        {
+                            "name": "Data Recovery"
+                        },
+                        {
+                            "name": "Incident Response Services (CSIRT aaS)"
+                        },
+                        {
+                            "name": "Takedown Services"
+                        }
+                    ]
+                },
+                {
+                    "name": "Improvements",
+                    "_children": [
+                        {
+                            "name": "Containment support"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Recover",
+            "_children": [
+                {
+                    "name": "Recovery Planning",
+                    "_children": [
+                        {
+                            "name": "System Recovery"
+                        },
+                        {
+                            "name": "Business Continuity/Recovery Planning"
+                        }
+                    ]
+                },
+                {
+                    "name": "Improvements",
+                    "_children": [
+                        {
+                            "name": "Post incident reviews & consulting"
+                        }
+                    ]
+                },
+                {
+                    "name": "Communications",
+                    "_children": [
+                        {
+                            "name": "Communications coaching & consulting"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
