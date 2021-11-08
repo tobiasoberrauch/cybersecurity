@@ -7,7 +7,7 @@
     <title>AI in Cybersecurity</title>
 
     <link rel="stylesheet" href="dist/reset.css" />
-    <link rel="stylesheet" href="node_modules/tailwindcss/dist/tailwind.css" />
+    <link rel="stylesheet" href="plugin/tailwind/tailwind.css" />
     <link rel="stylesheet" href="dist/reveal.css" />
     <link rel="stylesheet" href="dist/theme/white.css" />
 
@@ -179,18 +179,6 @@
         <section data-transition="none">
           <h1>How to implement?</h1>
         </section>
-        <section data-transition="none" data-markdown>
-          <script type="text/template">
-            ```php [1|3-5]
-            public function foo()
-            {
-                $foo = array(
-                    'bar' => 'bar'
-                )
-            }
-            ```
-          </script>
-        </section>
         <section data-transition="none">
           <h1>Summary</h1>
           <div class="box-list grid grid-cols-3 gap-8 text-white">
@@ -225,7 +213,7 @@
           RevealNotes,
           RevealFullscreen,
         ],
-        dependencies: [{ src: 'node_modules/reveald3/reveald3.js' }],
+        dependencies: [{ src: 'plugin/reveald3/reveald3.js' }],
       });
     </script>
   </body>
