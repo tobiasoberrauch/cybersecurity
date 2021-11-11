@@ -1,12 +1,12 @@
 {
     "name": "Cybersecurity",
-    "_children": [
+    "children": [
         {
             "name": "Indentify",
-            "_children": [
+            "children": [
                 {
                     "name": "Asset Management",
-                    "_children": [
+                    "children": [
                         {
                             "name": "Software & Security Lifecycle Management"
                         },
@@ -17,7 +17,7 @@
                 },
                 {
                     "name": "Business Environment",
-                    "_children": [
+                    "children": [
                         {
                             "name": "Business Impact Analysis"
                         }
@@ -25,7 +25,7 @@
                 },
                 {
                     "name": "Governance & Risk Management",
-                    "_children": [
+                    "children": [
                         {
                             "name": "Security Certification"
                         },
@@ -36,7 +36,7 @@
                 },
                 {
                     "name": "Risk Assessment",
-                    "_children": [
+                    "children": [
                         {
                             "name": "Risk Management solutions & services"
                         }
@@ -44,7 +44,7 @@
                 },
                 {
                     "name": "Risk Management Strategy",
-                    "_children": [
+                    "children": [
                         {
                             "name": "Risk management strategy development & consulting"
                         }
@@ -52,7 +52,7 @@
                 },
                 {
                     "name": "Supply Chain Risk Management",
-                    "_children": [
+                    "children": [
                         {
                             "name": "Supply chain risk monitoring solutions & services"
                         }
@@ -62,10 +62,10 @@
         },
         {
             "name": "Protect",
-            "_children": [
+            "children": [
                 {
                     "name": "Identity Management & Access Control",
-                    "_children": [
+                    "children": [
                         {
                             "name": "Access Management"
                         },
@@ -82,7 +82,7 @@
                 },
                 {
                     "name": "Awareness and Training",
-                    "_children": [
+                    "children": [
                         {
                             "name": "Awareness Trainings"
                         },
@@ -93,7 +93,7 @@
                 },
                 {
                     "name": "Data Security",
-                    "_children": [
+                    "children": [
                         {
                             "name": "PKI / Digital Certificates"
                         },
@@ -116,7 +116,7 @@
                 },
                 {
                     "name": "Information Protection Processes and Procedures",
-                    "_children": [
+                    "children": [
                         {
                             "name": "Static Application Security Testing (SAST)"
                         },
@@ -127,7 +127,7 @@
                 },
                 {
                     "name": "Maintenance",
-                    "_children": [
+                    "children": [
                         {
                             "name": "Patch Management"
                         },
@@ -141,7 +141,7 @@
                 },
                 {
                     "name": "Protective Technology",
-                    "_children": [
+                    "children": [
                         {
                             "name": "Wireless Security"
                         },
@@ -184,10 +184,10 @@
         },
         {
             "name": "Detect",
-            "_children": [
+            "children": [
                 {
                     "name": "Anomalies and Events",
-                    "_children": [
+                    "children": [
                         {
                             "name": "Fraud Management"
                         },
@@ -198,7 +198,7 @@
                 },
                 {
                     "name": "Security Continous Monitoring",
-                    "_children": [
+                    "children": [
                         {
                             "name": "SIEM / Event Correlation Solutions"
                         },
@@ -212,7 +212,7 @@
                 },
                 {
                     "name": "Detection Processes",
-                    "_children": [
+                    "children": [
                         {
                             "name": "Underground/Darkweb investigation"
                         },
@@ -228,10 +228,10 @@
         },
         {
             "name": "Respond",
-            "_children": [
+            "children": [
                 {
                     "name": "Response Planning",
-                    "_children": [
+                    "children": [
                         {
                             "name": "Incident Management"
                         },
@@ -242,7 +242,7 @@
                 },
                 {
                     "name": "Communications",
-                    "_children": [
+                    "children": [
                         {
                             "name": "Crisis Communication"
                         }
@@ -250,7 +250,7 @@
                 },
                 {
                     "name": "Analysis",
-                    "_children": [
+                    "children": [
                         {
                             "name": "Fraud Investigation"
                         },
@@ -261,7 +261,7 @@
                 },
                 {
                     "name": "Mitigation",
-                    "_children": [
+                    "children": [
                         {
                             "name": "Cyber Security Insurance"
                         },
@@ -281,7 +281,7 @@
                 },
                 {
                     "name": "Improvements",
-                    "_children": [
+                    "children": [
                         {
                             "name": "Containment support"
                         }
@@ -291,10 +291,10 @@
         },
         {
             "name": "Recover",
-            "_children": [
+            "children": [
                 {
                     "name": "Recovery Planning",
-                    "_children": [
+                    "children": [
                         {
                             "name": "System Recovery"
                         },
@@ -305,7 +305,7 @@
                 },
                 {
                     "name": "Improvements",
-                    "_children": [
+                    "children": [
                         {
                             "name": "Post incident reviews & consulting"
                         }
@@ -313,7 +313,7 @@
                 },
                 {
                     "name": "Communications",
-                    "_children": [
+                    "children": [
                         {
                             "name": "Communications coaching & consulting"
                         }
